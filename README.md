@@ -9,7 +9,7 @@ Dump your image here. Get the the URL and add the image into your README via the
 
 ### more than one image
 
-If you want to insert a number of images it is probably better to list all images and their URLs at the end of the README.
+If you want to insert a number of images it is probably better to list all images together with their URLs at the end of the README. This makes it easier to replace images afterwards.
 
 Example:
 
