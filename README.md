@@ -1,5 +1,5 @@
 # media storage
-This is a repository to store images that are used in other repositories for illustration purposes.
+This is a repository to store images that are used in other repositories of museum4punkt0 for illustration purposes.
 
 Dump your image here. Get the the URL and add the image into your README via the link using markdown command as follows:  
 
