@@ -7,6 +7,12 @@ You can either download the images (e.g. BKM-Logos) provided here and upload the
 
 `![Image of Something](path-to-image)`
 
+```</br>
+![BKM-Logo](https://github.com/museum4punkt0/Object-by-Object/blob/77bba25aa5a7f9948d4fd6f0b59f5bfb56ae89e2/04%20Logos/BKM_Fz_2017_Web_de.gif)
+![NeustartKultur](https://github.com/museum4punkt0/Object-by-Object/blob/22f4e86d4d213c87afdba45454bf62f4253cada1/04%20Logos/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg)
+</br>```
+
+
 ### more than one image
 
 If you want to insert a number of images it is probably better to list all images together with their URLs at the end of the README. This makes it easier to replace images afterwards.
