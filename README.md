@@ -6,8 +6,6 @@ Sie können die hier zur Verfügung gestellten Bilder (z.B. BKM-Logos) herunterl
 
 ## Markdown snippet:
 
-`![Image of Something](path-to-image)`
-
 
 ```
 ![BKM-Logo](https://github.com/museum4punkt0/Object-by-Object/blob/77bba25aa5a7f9948d4fd6f0b59f5bfb56ae89e2/04%20Logos/BKM_Fz_2017_Web_de.gif)
