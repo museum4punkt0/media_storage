@@ -1,13 +1,13 @@
 # media storage
-This is a repository to store images that are used in other repositories of museum4punkt0 for illustration purposes.
+Dies ist ein Repository zum Speichern von Bildern, die in anderen Repositories von museum4punkt0 zu Illustrationszwecken verwendet werden.
 
-You can either download the images (e.g. BKM-Logos) provided here and upload them into your own repository or you can dump your image here, get the the URL and add the image into your README via the link using markdown command as follows:  
+Sie können die hier zur Verfügung gestellten Bilder (z.B. BKM-Logos) herunterladen,  in Ihr eigenes Repository hochladen und mit der Readme verlinken oder Sie kopieren  unten stehendnm Code-Snippet, mit Sie die beiden BKM-Logos aus diesem Repository mit der betreffenden Readme verlinken.
+
 
 ## Markdown snippet:
 
 `![Image of Something](path-to-image)`
 
-Or to insert the BKM Logos just pick it up from here:
 
 ```
 ![BKM-Logo](https://github.com/museum4punkt0/Object-by-Object/blob/77bba25aa5a7f9948d4fd6f0b59f5bfb56ae89e2/04%20Logos/BKM_Fz_2017_Web_de.gif)
