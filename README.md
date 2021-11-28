@@ -1,5 +1,5 @@
 # media storage
-Dies ist ein Repository zum Speichern von Bildern, die in anderen Repositories von museum4punkt0 zu Illustrationszwecken verwendet werden.
+Dies ist ein Repository zum Speichern von Bildern, die in anderen Repositories von museum4punkt0 verwendet werden.
 
 Sie können die hier zur Verfügung gestellten Bilder (z.B. BKM-Logos) herunterladen,  in Ihr eigenes Repository hochladen und mit der Readme verlinken oder Sie kopieren  unten stehendnm Code-Snippet, mit Sie die beiden BKM-Logos aus diesem Repository mit der betreffenden Readme verlinken.
 
