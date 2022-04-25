@@ -13,11 +13,11 @@ Sie können die hier zur Verfügung gestellten Bilder (z.B. BKM-Logos) herunterl
 ```
 
 
-### more than one image
+### Hinweise für die Einbindung von mehreren Bildern in der Readme-Datei
 
-If you want to insert a number of images it is probably better to list all images together with their URLs at the end of the README. This makes it easier to replace images afterwards.
+Bilder können, wie oben gezeigt, an der jeweiligen Position in der Readme eingebunden werden. Es gibt aber auch die Option, falls mehrere Bilder eingebunden werden sollen, alle Bilddateien mit ihren Verlinkungen am Ende der Readme zu platzieren und von innerhalb des Textes darauf zu verweisen. Das macht es einfacher, wenn man nachträglich Bilder, die beipsielsweise mehrfach im Text vorkommen, austauschen möchte. 
 
-Example:
+Beispiel:
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. </br>
 `![Image of Something] [001]`</br>
