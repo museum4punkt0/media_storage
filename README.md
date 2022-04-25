@@ -1,7 +1,7 @@
 # media storage
-Dies ist ein Repository zum Speichern von Bildern, die in den Reamde-Datein anderer Repositories von museum4punkt0 verwendet werden.
+Dies ist ein Repository zum Speichern von Bildern, die in den Reamde-Dateien anderer Repositories von museum4punkt0 verwendet werden können.
 
-Sie können die hier zur Verfügung gestellten Bilder (z.B. BKM-Logos) herunterladen,  in Ihr eigenes Repository hochladen und mit der Readme verlinken oder Sie kopieren  unten stehendn Markdown Code-Snippet und fügen ihn in Ihre Readme ein und verlinken so auf beiden BKM-Logos aus diesem Repository.
+Sie können das hier zur Verfügung gestellte BKM- und Neustart Kultur-Logo entweder herunterladen,  in Ihr eigenes Repository hochladen und von dort mit der Readme verlinken oder Sie kopieren unten stehendn Markdown Code-Snippet und fügen ihn in Ihre Readme ein und verlinken so auf die beiden BKM-Logos aus diesem Repository.
 
 
 ## Markdown snippet:
@@ -13,21 +13,13 @@ Sie können die hier zur Verfügung gestellten Bilder (z.B. BKM-Logos) herunterl
 ```
 
 
-### Hinweise für die Einbindung von mehreren Bildern in der Readme-Datei
+### Hinweise für die Einbindung von Bildern in der Readme-Datei
 
-Bilder können, wie oben gezeigt, an der jeweiligen Position in der Readme eingebunden werden. Es besteht aber auch die Möglichkeit, falls mehrere Bilder eingebunden werden sollen, alle Bilddateien mit ihren Verlinkungen am Ende der Readme aufzulisten und von innerhalb des Textes darauf zu verweisen. Das macht es einfacher, wenn man beispielsweise nachträglich Bilder, die mehrfach im Text vorkommen, austauschen möchte. 
+Bilddateien können nach folgendem Muster mittels Markdown in die Readme eiungebunden werden: 
 
-Beispiel:
+`![Image of Something] (path-to-image)`</br>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. </br>
-`![Image of Something] [001]`</br>
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</br>
-`![Image of Something] [002]`</br>
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</br>
-`![museum4punkt0-Logo] [003]`</br>
-![museum4punkt0-Logo] [003] </br>
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </br></br>
-`[001]: path-to-image`</br>
-`[002]: path-to-image`</br>
-`[003]: https://github.com/museum4punkt0/media_storage/blob/main/Logo-Kombi%400.5.png`</br>
-[003]: https://github.com/museum4punkt0/media_storage/blob/main/Logo-Kombi%400.5.png
+Bsp:
+`![museum4punkt0-Logo] (https://github.com/museum4punkt0/media_storage/blob/main/Logo-Kombi%400.5.png)</br>`</br>
+Und so sieht es aus:
+![museum4punkt0-Logo] (https://github.com/museum4punkt0/media_storage/blob/main/Logo-Kombi%400.5.png)</br>
