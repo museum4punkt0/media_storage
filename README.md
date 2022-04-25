@@ -21,5 +21,5 @@ Bilddateien können nach folgendem Muster mittels Markdown in die Readme eiungeb
 
 Bsp:
 `![museum4punkt0-Logo](https://github.com/museum4punkt0/media_storage/blob/main/Logo-Kombi%400.5.png)</br>`</br>
-Und so sieht es aus:
+Und so sieht es aus:</br>
 ![museum4punkt0-Logo](https://github.com/museum4punkt0/media_storage/blob/main/Logo-Kombi%400.5.png)</br>
